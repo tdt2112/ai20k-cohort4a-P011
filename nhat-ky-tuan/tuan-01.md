@@ -11,7 +11,7 @@
 | Thành viên | Vị trí | Phân công tuần này |
 |---|---|---|
 | Nguyễn Văn A (@thanh-vien-a) | Lead | Chia job, chốt edge case, review xác suất 10% mọi job |
-| Trần Thị B (@thanh-vien-b) | Annotator | Job 101, 102 |
+| Trần Đức Thọ (@tdt2112) | Annotator | Job 1586 — 25 ảnh |
 | Lê Văn C (@thanh-vien-c) | Annotator | Job 103, 104 |
 | Phạm Thị D (@thanh-vien-d) | Reviewer · Annotator | Review job 101–104; gán job 105 |
 
